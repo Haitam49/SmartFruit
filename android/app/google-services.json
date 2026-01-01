@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136394828016",
+    "project_id": "fir-auth-f4fb5",
+    "storage_bucket": "fir-auth-f4fb5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136394828016:android:366600d13f5db3db017a35",
+        "android_client_info": {
+          "package_name": "com.example.smartfruitapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoCK8z_RGG-uixMb3d0Itjf85GGlRY1tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
