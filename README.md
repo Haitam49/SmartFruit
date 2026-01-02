@@ -1,16 +1,54 @@
-# smartfruitapp
+# SmartFruit 🍎🥕
 
-A new Flutter project.
+SmartFruit est une application mobile intelligente développée avec **Flutter** intégrant un modèle de **Deep Learning (CNN)** pour la classification des fruits et légumes à partir d’images.  
+L’application propose également un **assistant vocal basé sur Gemini**, capable d’interagir avec l’utilisateur en **texte et en voix**.
 
-## Getting Started
+Ce projet a été réalisé dans le cadre de mes projets académiques.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Fonctionnalités
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🔐 Authentification et inscription des utilisateurs
+- 📷 Chargement d’image depuis la galerie ou prise de photo via la caméra
+- 🧠 Classification automatique des fruits et légumes à l’aide d’un **CNN**
+- 📊 Affichage du résultat de la prédiction
+- 🎙 Assistant vocal intelligent (Gemini)
+  - Interaction vocale avec l’utilisateur
+  - Réponses générées en **texte et en audio**
+- 📱 Interface mobile intuitive et moderne
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠 Technologies utilisées
+
+### Mobile
+- Flutter
+- Dart
+
+### Intelligence Artificielle
+- Convolutional Neural Network (CNN)
+- Modèle de classification d’images
+- Traitement d’images
+
+### Assistant vocal
+- API Gemini
+- Reconnaissance vocale
+- Synthèse vocale (Text-to-Speech)
+
+### Outils
+-  VS Code
+- Git & GitHub
+
+---
+
+👤 Auteur
+
+Haitam Boulhna
+Étudiant en ingénierie informatique
+📧 Email : haitamboulhna19@gmail.com
+
+🔗 LinkedIn : www.linkedin.com/in/haitamboulhna
+ POTFOLIO : https://haitamportfolio.vercel.app/
+ 
+
